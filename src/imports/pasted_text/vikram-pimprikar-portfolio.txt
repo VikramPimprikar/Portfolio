@@ -1,0 +1,362 @@
+IMPORTANT:
+
+Create a professional portfolio website for Vikram Pimprikar.
+
+Create 4 separate Figma pages, not a single scrolling webpage.
+
+Page 1: Portfolio Homepage
+Page 2: DigiLocker UX/UI Case Study
+Page 3: Banking Management System Case Study
+Page 4: SOC RAG Chatbot Case Study
+
+All pages must be fully editable in Figma using Auto Layout and reusable components.
+
+==================================================
+PERSONAL INFORMATION
+====================
+
+Name:
+Vikram Pimprikar
+
+Role:
+Computer Engineering Student | Cybersecurity Enthusiast | Web Developer | AI & Data Analytics Learner
+
+Education:
+B.Tech Computer Engineering
+Sardar Patel Institute of Technology
+2023–2027
+CGPA: 7.5/10
+
+About:
+Passionate about cybersecurity, web development, artificial intelligence, and data analytics. Interested in building secure, scalable, and intelligent software systems that solve real-world problems.
+
+Experience:
+
+Web Development Intern – UpToSkills
+
+* Developed responsive admin dashboards
+* Improved UI/UX
+* Worked with Bootstrap and JavaScript
+* Built responsive web interfaces
+
+Cybersecurity Intern – EduNet Foundation
+
+* Network reconnaissance using Nmap
+* DDoS attack simulations
+* Security fundamentals
+* Penetration testing basics
+
+Technical Skills:
+
+Languages:
+Java, Python, C, C++, JavaScript, SQL
+
+Frontend:
+HTML, CSS, Bootstrap, React
+
+Backend:
+Node.js, Express.js
+
+Databases:
+SQLite, PostgreSQL, MongoDB
+
+Cybersecurity:
+Nmap, Network Security, SOC Concepts
+
+AI & Data:
+NumPy, Pandas, Matplotlib, Generative AI, RAG
+
+Tools:
+Git, Linux, Figma, Excel
+
+==================================================
+DESIGN STYLE
+============
+
+Use:
+
+* White background
+* Purple primary color (#6D28D9)
+* Lavender secondary accents
+* Clean modern typography
+* Glassmorphism where appropriate
+* Modern SaaS style
+* Behance-quality presentation
+* Professional portfolio appearance
+* Responsive desktop and mobile layouts
+
+==================================================
+PAGE 1 – PORTFOLIO HOMEPAGE
+===========================
+
+Create:
+
+Hero Section
+
+* Professional profile image placeholder
+* Name
+* Role
+* Introduction
+* View Projects button
+* Contact button
+
+About Section
+
+Education Timeline
+
+Experience Section
+
+Technical Skills Section
+
+Featured Projects Section
+
+Project Cards:
+
+1. DigiLocker UX/UI Redesign
+2. Banking Management System
+3. SOC RAG Chatbot
+
+Each card should contain:
+
+* Thumbnail image
+* Tags
+* Description
+* View Case Study button
+
+Contact Section
+
+Footer
+
+==================================================
+PAGE 2 – DIGILOCKER UX/UI CASE STUDY
+====================================
+
+Create a complete UX/UI case study page.
+
+Sections:
+
+1. Hero Banner
+
+2. Project Overview
+
+3. Problem Statement
+
+4. Design Goals
+
+5. User Research
+
+6. User Pain Points
+
+7. User Persona
+
+Create persona card with:
+
+* Name
+* Age
+* Occupation
+* Goals
+* Frustrations
+
+8. User Journey Map
+
+Create journey stages:
+
+* Login
+* Upload
+* Verification
+* Document Access
+
+9. Information Architecture
+
+10. Competitive Analysis
+
+11. User Flow Diagram
+
+12. Wireframes
+
+13. Low Fidelity Designs
+
+14. High Fidelity Designs
+
+15. Design System
+
+16. Color Palette
+
+17. Typography System
+
+18. Components Library
+
+19. Accessibility Improvements
+
+20. Mobile Responsive Screens
+
+21. Dashboard Screens
+
+22. Document Upload Screens
+
+23. Document Verification Screens
+
+24. Prototype Section
+
+25. Before vs After Comparison
+
+26. Challenges Faced
+
+27. Learnings
+
+28. Final Outcome
+
+Use professional UX portfolio presentation style.
+
+==================================================
+PAGE 3 – BANKING MANAGEMENT SYSTEM
+==================================
+
+Tech Stack:
+React, Node.js, Express.js, SQLite/PostgreSQL, JWT
+
+Create sections:
+
+1. Hero Banner
+
+2. Project Overview
+
+3. Problem Statement
+
+4. Objectives
+
+5. Features
+
+6. System Architecture Diagram
+
+Diagram:
+
+Frontend (React)
+↓
+Backend (Node.js + Express)
+↓
+Database (SQLite/PostgreSQL)
+
+7. Database Schema
+
+8. Authentication Flow
+
+9. API Architecture
+
+10. Dashboard Screens
+
+11. Account Management
+
+12. Transaction Management
+
+13. KYC Module
+
+14. Credit Score Module
+
+15. Admin Panel
+
+16. Technology Stack
+
+17. Security Features
+
+18. Challenges
+
+19. Future Scope
+
+20. GitHub Section
+
+Use professional software engineering case-study design.
+
+==================================================
+PAGE 4 – SOC RAG CHATBOT
+========================
+
+Project Name:
+Security Knowledge & Playbook Assistant
+
+Description:
+An AI-powered Retrieval-Augmented Generation chatbot for SOC analysts that answers questions using security playbooks, SOPs, incident response documents, and cybersecurity knowledge.
+
+Create sections:
+
+1. Hero Banner
+
+2. Problem Statement
+
+3. Stakeholders
+
+4. Existing SOC Challenges
+
+5. Why RAG
+
+6. System Architecture Diagram
+
+Diagram:
+
+Documents
+↓
+Chunking
+↓
+Embeddings
+↓
+Vector Database
+↓
+Retriever
+↓
+LLM
+↓
+Response
+
+7. Workflow Diagram
+
+8. Data Ingestion Pipeline
+
+9. Chunking Strategy
+
+10. Embedding Generation
+
+11. Vector Database
+
+12. Retrieval Process
+
+13. LLM Integration
+
+14. Chat Interface Screens
+
+15. Results
+
+16. Benefits
+
+17. Challenges
+
+18. Future Scope
+
+19. GitHub Section
+
+Use modern AI product case-study layouts and architecture diagrams.
+
+==================================================
+FINAL REQUIREMENTS
+==================
+
+* Create all four pages as separate Figma pages
+* Use Auto Layout
+* Use reusable components
+* Create editable frames
+* Create responsive layouts
+* Create navigation between pages
+* Include architecture diagrams
+* Include UX diagrams
+* Include user persona cards
+* Include user journey maps
+* Include wireframes
+* Include dashboard mockups
+* Include screenshot placeholders
+* Make the portfolio suitable for:
+
+  * College submission
+  * Placement interviews
+  * Internship applications
+  * Professional portfolio showcase
+
+The final design should look like a premium Behance case study combined with a modern SaaS portfolio website.
